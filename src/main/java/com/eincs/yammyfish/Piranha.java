@@ -10,31 +10,31 @@ public class Piranha extends Fish {
 
         this.imageFish = new FishSprite();
 
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pina\\Pina_3_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pina\\Pina_3_left.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pina\\Pina_3_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pina\\Pina_3_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pina/Pina_3_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pina/Pina_3_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pina/Pina_3_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pina/Pina_3_left.png"));
 
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pina\\Pina_3_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pina\\Pina_3_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pina/Pina_3_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pina/Pina_3_left.png"));
 
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pina\\Pina_4_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pina\\Pina_4_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pina/Pina_4_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pina/Pina_4_left.png"));
 
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pina\\Pina_5_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pina\\Pina_5_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pina/Pina_5_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pina/Pina_5_left.png"));
 
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pina\\Pina_6_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pina\\Pina_6_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pina/Pina_6_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pina/Pina_6_left.png"));
 
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pina\\Pina_7_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pina\\Pina_7_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pina/Pina_7_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pina/Pina_7_left.png"));
 
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pina\\Pina_8_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pina\\Pina_8_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pina/Pina_8_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pina/Pina_8_left.png"));
 
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pina\\Pina_9_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pina\\Pina_9_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pina/Pina_9_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pina/Pina_9_left.png"));
     }
 
     @Override

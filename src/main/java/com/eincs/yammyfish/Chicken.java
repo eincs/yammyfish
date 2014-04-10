@@ -10,31 +10,31 @@ public class Chicken extends Fish {
 
         this.imageFish = new FishSprite();
 
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Chicken\\Chicken_3_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Chicken\\Chicken_3_left.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Chicken\\Chicken_3_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Chicken\\Chicken_3_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Chicken/Chicken_3_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Chicken/Chicken_3_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Chicken/Chicken_3_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Chicken/Chicken_3_left.png"));
 
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Chicken\\Chicken_3_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Chicken\\Chicken_3_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Chicken/Chicken_3_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Chicken/Chicken_3_left.png"));
 
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Chicken\\Chicken_4_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Chicken\\Chicken_4_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Chicken/Chicken_4_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Chicken/Chicken_4_left.png"));
 
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Chicken\\Chicken_5_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Chicken\\Chicken_5_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Chicken/Chicken_5_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Chicken/Chicken_5_left.png"));
 
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Chicken\\Chicken_6_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Chicken\\Chicken_6_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Chicken/Chicken_6_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Chicken/Chicken_6_left.png"));
 
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Chicken\\Chicken_7_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Chicken\\Chicken_7_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Chicken/Chicken_7_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Chicken/Chicken_7_left.png"));
 
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Chicken\\Chicken_8_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Chicken\\Chicken_8_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Chicken/Chicken_8_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Chicken/Chicken_8_left.png"));
 
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Chicken\\Chicken_9_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Chicken\\Chicken_9_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Chicken/Chicken_9_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Chicken/Chicken_9_left.png"));
     }
 
     @Override

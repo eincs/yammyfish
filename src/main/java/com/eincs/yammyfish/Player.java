@@ -85,9 +85,9 @@ public class Player {
             playerID = Player.PLAYER1;
         }
         if (playerID == Player.PLAYER1) {
-            infoBar = new ImageIcon("img\\fullscr\\player_info_bar1.png");
+            infoBar = new ImageIcon("img/fullscr/player_info_bar1.png");
         } else {
-            infoBar = new ImageIcon("img\\fullscr\\player_info_bar2.png");
+            infoBar = new ImageIcon("img/fullscr/player_info_bar2.png");
         }
         timer.start();
         flick.start();
@@ -114,24 +114,24 @@ public class Player {
         if (playerID == Player.PLAYER1) {
             fish.setMessage("PLAYER1");
             if (fishType == Fish.VF_CHICKEN) {
-                fishIcon = new ImageIcon("img\\fish\\Chicken\\Chicken_5_left.png");
+                fishIcon = new ImageIcon("img/fish/Chicken/Chicken_5_left.png");
             } else if (fishType == Fish.VF_FOOTBALL) {
-                fishIcon = new ImageIcon("img\\fish\\Football\\Football_5_left.png");
+                fishIcon = new ImageIcon("img/fish/Football/Football_5_left.png");
             } else if (fishType == Fish.VF_PICACHU) {
-                fishIcon = new ImageIcon("img\\fish\\Pica\\Pica_5_left.png");
+                fishIcon = new ImageIcon("img/fish/Pica/Pica_5_left.png");
             } else {
-                fishIcon = new ImageIcon("img\\fish\\Pina\\Pina_5_left.png");
+                fishIcon = new ImageIcon("img/fish/Pina/Pina_5_left.png");
             }
         } else {
             fish.setMessage("PLAYER2");
             if (fishType == Fish.VF_CHICKEN) {
-                fishIcon = new ImageIcon("img\\fish\\Chicken\\Chicken_5_right.png");
+                fishIcon = new ImageIcon("img/fish/Chicken/Chicken_5_right.png");
             } else if (fishType == Fish.VF_FOOTBALL) {
-                fishIcon = new ImageIcon("img\\fish\\Football\\Football_5_right.png");
+                fishIcon = new ImageIcon("img/fish/Football/Football_5_right.png");
             } else if (fishType == Fish.VF_PICACHU) {
-                fishIcon = new ImageIcon("img\\fish\\Pica\\Pica_5_right.png");
+                fishIcon = new ImageIcon("img/fish/Pica/Pica_5_right.png");
             } else {
-                fishIcon = new ImageIcon("img\\fish\\Pina\\Pina_5_right.png");
+                fishIcon = new ImageIcon("img/fish/Pina/Pina_5_right.png");
             }
         }
     }
@@ -284,7 +284,7 @@ public class Player {
             }
         }
         if (winner) {
-            ImageIcon black = new ImageIcon("img\\fullscr\\black.png");
+            ImageIcon black = new ImageIcon("img/fullscr/black.png");
             g.drawImage(black.getImage(), 0, 0, null);
             g.setFont(new Font("SansSerif", Font.BOLD, 80));
             g.drawString("GAME OVER", 150, 110);
@@ -304,13 +304,13 @@ public class Player {
             ImageIcon icon;
 
             if (fishType == Fish.VF_CHICKEN) {
-                icon = new ImageIcon("img\\fish\\Chicken\\Chicken_9_left.png");
+                icon = new ImageIcon("img/fish/Chicken/Chicken_9_left.png");
             } else if (fishType == Fish.VF_FOOTBALL) {
-                icon = new ImageIcon("img\\fish\\Football\\Football_9_left.png");
+                icon = new ImageIcon("img/fish/Football/Football_9_left.png");
             } else if (fishType == Fish.VF_PICACHU) {
-                icon = new ImageIcon("img\\fish\\Pica\\Pica_9_left.png");
+                icon = new ImageIcon("img/fish/Pica/Pica_9_left.png");
             } else {
-                icon = new ImageIcon("img\\fish\\Pina\\Pina_9_left.png");
+                icon = new ImageIcon("img/fish/Pina/Pina_9_left.png");
             }
             g.drawImage(icon.getImage(), 350, 130, null);
         }

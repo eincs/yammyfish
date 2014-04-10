@@ -8,31 +8,31 @@ public class Pica extends Fish {
         super((int) startPoint.getX(), (int) startPoint.getY(), 6, 0.5, 0.05);
         this.setLevel(5);
 
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pica\\Pica_3_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pica\\Pica_3_left.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pica\\Pica_3_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pica\\Pica_3_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pica/Pica_3_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pica/Pica_3_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pica/Pica_3_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pica/Pica_3_left.png"));
 
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pica\\Pica_3_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pica\\Pica_3_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pica/Pica_3_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pica/Pica_3_left.png"));
 
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pica\\Pica_4_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pica\\Pica_4_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pica/Pica_4_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pica/Pica_4_left.png"));
 
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pica\\Pica_5_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pica\\Pica_5_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pica/Pica_5_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pica/Pica_5_left.png"));
 
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pica\\Pica_6_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pica\\Pica_6_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pica/Pica_6_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pica/Pica_6_left.png"));
 
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pica\\Pica_7_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pica\\Pica_7_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pica/Pica_7_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pica/Pica_7_left.png"));
 
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pica\\Pica_8_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pica\\Pica_8_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pica/Pica_8_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pica/Pica_8_left.png"));
 
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pica\\Pica_9_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Pica\\Pica_9_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pica/Pica_9_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Pica/Pica_9_left.png"));
     }
 
     @Override

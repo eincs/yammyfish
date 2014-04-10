@@ -10,31 +10,31 @@ public class Football extends Fish {
 
         this.imageFish = new FishSprite();
 
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Football\\FootBall_3_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Football\\FootBall_3_left.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Football\\FootBall_3_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Football\\FootBall_3_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Football/FootBall_3_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Football/FootBall_3_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Football/FootBall_3_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Football/FootBall_3_left.png"));
 
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Football\\FootBall_3_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Football\\FootBall_3_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Football/FootBall_3_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Football/FootBall_3_left.png"));
 
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Football\\FootBall_4_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Football\\FootBall_4_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Football/FootBall_4_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Football/FootBall_4_left.png"));
 
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Football\\FootBall_5_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Football\\FootBall_5_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Football/FootBall_5_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Football/FootBall_5_left.png"));
 
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Football\\FootBall_6_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Football\\FootBall_6_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Football/FootBall_6_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Football/FootBall_6_left.png"));
 
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Football\\FootBall_7_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Football\\FootBall_7_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Football/FootBall_7_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Football/FootBall_7_left.png"));
 
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Football\\FootBall_8_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Football\\FootBall_8_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Football/FootBall_8_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Football/FootBall_8_left.png"));
 
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Football\\FootBall_9_right.png"));
-        imageFish.addImageIcon(new ImageIcon("img\\fish\\Football\\FootBall_9_left.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Football/FootBall_9_right.png"));
+        imageFish.addImageIcon(new ImageIcon("img/fish/Football/FootBall_9_left.png"));
     }
 
     @Override

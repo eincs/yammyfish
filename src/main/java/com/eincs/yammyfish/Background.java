@@ -14,8 +14,8 @@ public class Background implements Drawable {
     private ImageIcon gameBackground;
 
     public Background() {
-        gameLogo = new ImageIcon("img\\fullscr\\fullscr_logo.png");
-        gameBackground = new ImageIcon("img\\fullscr\\fullscr_back.png");
+        gameLogo = new ImageIcon("img/fullscr/fullscr_logo.png");
+        gameBackground = new ImageIcon("img/fullscr/fullscr_back.png");
 
         curImage = gameLogo;
     }
