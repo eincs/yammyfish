@@ -233,9 +233,8 @@ public class FishManager {
         }
         this.playerFish1.draw(g);
         if (gameMode == FishEater.GAME_RUN_2P) {
-            return;
+            this.playerFish2.draw(g);
         }
-        this.playerFish2.draw(g);
     }
 
     private class RespownListener implements ActionListener {
