@@ -3,7 +3,7 @@
 ![ScreenShot](https://raw.githubusercontent.com/eincs/yammyfish/master/docs/screenshot.png)
 
 물고기가 되어서 다른 물고기들을 잡아먹으며 성장하는 간단한 게임이며, 자바로 구현되어 있습니다.
-2008년 텀프로젝트로 만든 것으로 코드 퀄리티는 정말... 누가봐도 구립니다.
+2008년 객체지향프로그래밍 수업의 텀프로젝트로 만든 것으로 코드 퀄리티는 정말... 누가봐도 구립니다.
 
 ## 실행 방법
 
