@@ -186,12 +186,12 @@ public class Player {
                 this.fish.setMessage(curCombo + " Combo!");
             }
             if (fish.isPlayer()) {
-                score += this.PLAYER_EAT_SCORE;
-                this.power += this.PLAYER_EAT_POWER;
+                score += PLAYER_EAT_SCORE;
+                this.power += PLAYER_EAT_POWER;
                 this.playerFishEaten++;
             } else {
-                score += (curCombo + 1) * this.COMFISH_EAT_SCORE;
-                this.power += this.COMFISH_EAT_POWER * (1 + curCombo);
+                score += (curCombo + 1) * COMFISH_EAT_SCORE;
+                this.power += COMFISH_EAT_POWER * (1 + curCombo);
             }
             comboState = true;
             this.numberFishEaten++;
