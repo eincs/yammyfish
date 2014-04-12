@@ -1,6 +1,8 @@
-package com.eincs.yammyfish;
+package com.eincs.yammyfish.fish;
 
 import javax.swing.ImageIcon;
+
+import com.eincs.yammyfish.Pos;
 
 public class Pica extends Fish {
 

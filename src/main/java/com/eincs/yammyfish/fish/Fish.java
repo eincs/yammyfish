@@ -1,10 +1,14 @@
-package com.eincs.yammyfish;
+package com.eincs.yammyfish.fish;
 
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.Graphics;
 
 import javax.swing.ImageIcon;
+
+import com.eincs.yammyfish.Drawable;
+import com.eincs.yammyfish.FishSprite;
+import com.eincs.yammyfish.Pos;
 
 public abstract class Fish implements Drawable {
 

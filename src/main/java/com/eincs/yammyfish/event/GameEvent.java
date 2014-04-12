@@ -1,4 +1,4 @@
-package com.eincs.yammyfish;
+package com.eincs.yammyfish.event;
 
 public abstract class GameEvent {
 

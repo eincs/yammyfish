@@ -1,5 +1,7 @@
 package com.eincs.yammyfish;
 
+import com.eincs.yammyfish.event.GameEvent;
+
 public class GameStartEvent extends GameEvent {
     private int gameMode;
     private int playerFish1;

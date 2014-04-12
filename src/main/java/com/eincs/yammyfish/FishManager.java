@@ -8,6 +8,15 @@ import java.util.Vector;
 
 import javax.swing.Timer;
 
+import com.eincs.yammyfish.event.GameEvent;
+import com.eincs.yammyfish.event.GameEventManager;
+import com.eincs.yammyfish.fish.Chicken;
+import com.eincs.yammyfish.fish.Fish;
+import com.eincs.yammyfish.fish.Football;
+import com.eincs.yammyfish.fish.NormalFish;
+import com.eincs.yammyfish.fish.Pica;
+import com.eincs.yammyfish.fish.Piranha;
+
 /*
  * 컴퓨터 물고기와 플레이어 물고기를 관리하는 물고기 매니저 클래스
  * 물고기와 관련된 모든 제어는 이 클래스를 통해 일어난다

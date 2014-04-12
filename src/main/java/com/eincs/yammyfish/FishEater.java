@@ -15,6 +15,11 @@ import javax.swing.JMenuItem;
 import javax.swing.KeyStroke;
 import javax.swing.Timer;
 
+import com.eincs.yammyfish.event.GameEvent;
+import com.eincs.yammyfish.event.GameEventManager;
+import com.eincs.yammyfish.event.GameSetEvent;
+import com.eincs.yammyfish.fish.Fish;
+
 public class FishEater extends JFrame {
 
     private static final long serialVersionUID = 1L;

@@ -1,6 +1,9 @@
-package com.eincs.yammyfish;
+package com.eincs.yammyfish.fish;
 
 import javax.swing.ImageIcon;
+
+import com.eincs.yammyfish.FishSprite;
+import com.eincs.yammyfish.Pos;
 
 public class Chicken extends Fish {
 

@@ -9,6 +9,11 @@ import java.awt.event.ActionListener;
 import javax.swing.ImageIcon;
 import javax.swing.Timer;
 
+import com.eincs.yammyfish.event.GameEndEvent;
+import com.eincs.yammyfish.event.GameEvent;
+import com.eincs.yammyfish.event.GameEventManager;
+import com.eincs.yammyfish.fish.Fish;
+
 public class Player {
 
     // 플레이어의 상태를 나타내는 상수

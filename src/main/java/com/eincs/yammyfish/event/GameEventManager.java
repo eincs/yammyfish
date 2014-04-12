@@ -1,4 +1,9 @@
-package com.eincs.yammyfish;
+package com.eincs.yammyfish.event;
+
+import com.eincs.yammyfish.FishEater;
+import com.eincs.yammyfish.FishManager;
+import com.eincs.yammyfish.GameScreen;
+import com.eincs.yammyfish.GameStartEvent;
 
 public class GameEventManager {
     private FishEater fishEater;

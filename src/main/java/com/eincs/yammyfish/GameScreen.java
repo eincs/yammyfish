@@ -7,6 +7,8 @@ import java.awt.image.BufferedImage;
 
 import javax.swing.JPanel;
 
+import com.eincs.yammyfish.event.GameEventManager;
+
 public class GameScreen extends JPanel {
 
     private static final long serialVersionUID = 1L;

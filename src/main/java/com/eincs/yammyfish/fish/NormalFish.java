@@ -1,6 +1,8 @@
-package com.eincs.yammyfish;
+package com.eincs.yammyfish.fish;
 
 import javax.swing.ImageIcon;
+
+import com.eincs.yammyfish.FishSprite;
 
 public class NormalFish extends Fish {
 
