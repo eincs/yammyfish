@@ -76,16 +76,16 @@
                             <logViolationsToConsole>true</logViolationsToConsole>
                             <failsOnError>true</failsOnError>
                             <failOnViolation>true</failOnViolation>
-                            <configLocation>checkstyle.xml</configLocation>
+                            <configLocation>com/eincs/build/checkstyle.xml</configLocation>
                             <includeTestSourceDirectory>true</includeTestSourceDirectory>
                         </configuration>
                     </execution>
                 </executions>
                 <dependencies>
-                    <dependency>
-                        <groupId>io.netty</groupId>
-                        <artifactId>netty-build</artifactId>
-                        <version>19</version>
+                    </dependency>
+                        d>com.eincs.build</groupId>
+                        <artifactId>build-support</artifactId>
+                        <version>0.0.3</version>
                     </dependency>
                 </dependencies>
             </plugin>
