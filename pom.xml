@@ -82,8 +82,8 @@
                     </execution>
                 </executions>
                 <dependencies>
-                    </dependency>
-                        d>com.eincs.build</groupId>
+                    <dependency>
+                        <groupId>com.eincs.build</groupId>
                         <artifactId>build-support</artifactId>
                         <version>0.0.3</version>
                     </dependency>
